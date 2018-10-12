@@ -125,3 +125,8 @@ This was developed by "equation group" an exploit developer group associated wit
 * https://blogs.technet.microsoft.com/msrc/2017/04/14/protecting-customers-and-evaluating-risk/
 * https://technet.microsoft.com/en-us/library/security/ms17-010.aspx
 Credits: rain-1
+
+
+How to remove Wannacry Ransomware
+https://www.youtube.com/watch?v=KlAy6IH7siY
+
